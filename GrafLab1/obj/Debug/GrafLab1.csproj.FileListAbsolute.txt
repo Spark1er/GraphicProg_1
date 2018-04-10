@@ -1,0 +1,9 @@
+C:\Users\ricks\Documents\Visual Studio 2015\Projects\GrafLab1\GrafLab1\bin\Debug\GrafLab1.exe.config
+C:\Users\ricks\Documents\Visual Studio 2015\Projects\GrafLab1\GrafLab1\bin\Debug\GrafLab1.exe
+C:\Users\ricks\Documents\Visual Studio 2015\Projects\GrafLab1\GrafLab1\bin\Debug\GrafLab1.pdb
+C:\Users\ricks\Documents\Visual Studio 2015\Projects\GrafLab1\GrafLab1\obj\Debug\GrafLab1.csprojResolveAssemblyReference.cache
+C:\Users\ricks\Documents\Visual Studio 2015\Projects\GrafLab1\GrafLab1\obj\Debug\GrafLab1.Form1.resources
+C:\Users\ricks\Documents\Visual Studio 2015\Projects\GrafLab1\GrafLab1\obj\Debug\GrafLab1.Properties.Resources.resources
+C:\Users\ricks\Documents\Visual Studio 2015\Projects\GrafLab1\GrafLab1\obj\Debug\GrafLab1.csproj.GenerateResource.Cache
+C:\Users\ricks\Documents\Visual Studio 2015\Projects\GrafLab1\GrafLab1\obj\Debug\GrafLab1.exe
+C:\Users\ricks\Documents\Visual Studio 2015\Projects\GrafLab1\GrafLab1\obj\Debug\GrafLab1.pdb
